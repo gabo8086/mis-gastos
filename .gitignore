@@ -1,0 +1,14 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+
+# Instrucciones del proyecto para Claude Code (solo locales, no se sube al repo)
+/CLAUDE.md
+build/
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+*.hprof
